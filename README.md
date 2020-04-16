@@ -1,6 +1,6 @@
 # Code
 
-This repository will hold all the code I have ever written (mostly) in  the Arduino language and Python that had not been deleted. It will keep it safe in the case that I need it, whether I am working on another computer or it is lost on the original one. Edit what you want to in the appropriate branch, and pull request it and I will add it to the main repo. Have fun!
+This repository will hold all the code I have ever written (mostly) in  the Arduino language and Python that has not been deleted. It will keep it safe in the case that I need it, whether I am working on another computer or it is lost on the original one. Edit what you want to in the appropriate branch, and pull request it and I will add it to the main repo. Have fun!
 
 ## My Boards
 
@@ -33,6 +33,9 @@ This is a full inventory of all the electronic-related stuff that I have current
 -  1x Tilt Sensor
 -  1x Temperature Sensor (TMP36)
 -  1x Photoresistor
+- 1x Accelerometer (ADXL335)
+- 5x Phototransistors
+- 1x Arducam Mini 2MP Plus (OV2640)
 
 ### Actuators
 
@@ -41,9 +44,36 @@ This is a full inventory of all the electronic-related stuff that I have current
 -  1x RGB LED
 -  4x Through Hole Neopixels
 -  1x Neopixel Strip
+- 8x Red LED
+- 8x Yellow LED
+- 8x Green LED
+- 3x Blue LED 
+- 1x Clear White LED 
+- 1x DC Motor
+
 
 ### User Interface Tools
 
 -  1x 16x2 LCD (Liquid Crystal Display)
 -  3x Potentiometer
+- 10x Push Buttons
+
+### ICs and Transistors
+
+- 2x Optocouplers
+- 3x Shift Registers
+- 1x Motor Driver (L293D)
+- 3x NPN Transistors
+
+### Power Supplies and Connectors
+
+- 10x 2.1mm Barrel Jack Connecters
+- 1x 5V 1A Power Supply
+- 1x 5V 2A Power Supply
+- 3x 9V Rechargable Batteries
+
+### Resistors and Capacitors
+
+- 25x 330 Ohm Resistors
+- 5x 100µf 25V capacitors
 
