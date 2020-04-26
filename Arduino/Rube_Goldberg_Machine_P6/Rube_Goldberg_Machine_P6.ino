@@ -1,3 +1,4 @@
+
 #include <SPI.h>
 #include <BraccioRobot.h>
 #include <Servo.h>
@@ -48,9 +49,9 @@ void setup() {
 void loop() {
     Sense(); 
    if (cm < 200 and Rep == 0) {
-    Position posit(100, 95, 165, 30, 135, 20); 
+    Position posit(100,70, 165,30 , 135, 20); 
     BraccioRobot.moveToPosition(posit.setGripper(20), 30); 
-    BraccioRobot.moveToPosition(posit.setGripper(40), 30);
+    BraccioRobot.moveToPosition(posit.setGripper(64), 30);
     posit.set(150, 95, 165, 30, 135, 73);
     BraccioRobot.moveToPosition(posit.setGripper(40), 30);
     BraccioRobot.moveToPosition(posit.setGripper(10), 30);
