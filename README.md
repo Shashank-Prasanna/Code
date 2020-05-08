@@ -6,12 +6,12 @@ This repository will hold all the code I have ever written (mostly) in  the Ardu
 
 Currently, I have:
 
-- Arduino Uno
-- Adafruit Feather Huzzah ESP8266
+- Arduino Uno Rev.3
+- Adafruit Feather Huzzah ESP8266 (^)
 - Raspberry Pi 3 B+
 - Arduino Nano 33 BLE Sense
--  Arduino MKR WiFi 1010
--  Arduino Uno WiFi Rev.2
+- Arduino MKR WiFi 1010
+- Arduino Uno WiFi Rev.2
 
 ## Inventory
 
@@ -23,8 +23,8 @@ This is a full inventory of all the electronic-related stuff that I have current
 -  1x Adafruit Feather Huzzah ESP8266
 -  1x Raspberry Pi 3 B+
 -  1x Arduino Nano 33 BLE Sense
--  1x Arduino MKR WiFi 1010
-- 1x Arduino Uno WiFi Rev.2
+-  1x Arduino MKR WiFi 1010 (*)
+- 1x Arduino Uno WiFi Rev.2 (*)
 
 ### Sensors
 
@@ -43,13 +43,14 @@ This is a full inventory of all the electronic-related stuff that I have current
 -  1x Piezo
 -  1x RGB LED
 -  4x Through Hole Neopixels
--  1x Neopixel Strip
+-  1x Neopixel Strip (*)
 - 8x Red LED
 - 8x Yellow LED
 - 8x Green LED
 - 3x Blue LED 
 - 1x Clear White LED 
 - 1x DC Motor
+- 1x Braccio Grabber Robot
 
 
 ### User Interface Tools
@@ -63,11 +64,11 @@ This is a full inventory of all the electronic-related stuff that I have current
 - 2x Optocouplers
 - 3x Shift Registers
 - 1x Motor Driver (L293D)
-- 3x NPN Transistors
+- 3x NPN Transistors (1x *)
 
 ### Power Supplies and Connectors
 
-- 10x 2.1mm Barrel Jack Connecters
+- 10x 2.1mm Barrel Jack Connecters (2x *)
 - 1x 5V 1A Power Supply
 - 1x 5V 2A Power Supply
 - 3x 9V Rechargable Batteries
@@ -76,4 +77,13 @@ This is a full inventory of all the electronic-related stuff that I have current
 
 - 25x 330 Ohm Resistors
 - 5x 100µf 25V capacitors
+
+### Shields
+- 1x Braccio Robot Shield
+- 1x MKR ENV Shield (*)
+- 1x Joystick Shield
+- 1x Music Maker Shield
+
+ (*) In Greenhouse
+ (^) In Weather Station
 
