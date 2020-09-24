@@ -12,6 +12,7 @@ Currently, I have:
 - Arduino Nano 33 BLE Sense
 - Arduino MKR WiFi 1010
 - Arduino Uno WiFi Rev.2
+- Bangle.js
 
 ## Inventory
 
@@ -25,6 +26,7 @@ This is a full inventory of all the electronic-related stuff that I have current
 -  1x Arduino Nano 33 BLE Sense
 -  1x Arduino MKR WiFi 1010 (*)
 - 1x Arduino Uno WiFi Rev.2 (*)
+- Bangle.js
 
 ### Sensors
 
@@ -36,6 +38,7 @@ This is a full inventory of all the electronic-related stuff that I have current
 - 1x Accelerometer (ADXL335)
 - 5x Phototransistors
 - 1x Arducam Mini 2MP Plus (OV2640)
+- PiCam
 
 ### Actuators
 
